@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" fill="none">
+  <defs><linearGradient id="a" x1="0" y1="0" x2="900" y2="650" gradientUnits="userSpaceOnUse"><stop stop-color="#F5F6F8"/><stop offset="1" stop-color="#D9E0EC"/></linearGradient><linearGradient id="b" x1="180" y1="100" x2="720" y2="560" gradientUnits="userSpaceOnUse"><stop stop-color="#C6A15B"/><stop offset="1" stop-color="#8F6E36"/></linearGradient></defs>
+  <rect width="900" height="650" fill="url(#a)"/>
+  <path d="M0 500h900" stroke="#101D32" stroke-opacity=".16" stroke-width="2"/>
+  <path d="M95 500V170l350-91 360 91v330" fill="#101D32" stroke="#C6A15B" stroke-width="6"/>
+  <path d="M132 178 445 97l324 81" stroke="#EAD7AC" stroke-width="5"/>
+  <path d="M162 221h94v235h-94zM299 194h94v262h-94zM436 169h94v287h-94zM573 196h94v260h-94zM710 223h61v233h-61z" fill="#F5F6F8" fill-opacity=".14" stroke="#C6A15B" stroke-opacity=".7" stroke-width="3"/>
+  <path d="M130 456h642" stroke="#EAD7AC" stroke-width="10"/>
+  <path d="M105 512h690" stroke="#B08A45" stroke-width="4"/>
+  <path d="M595 105c48 0 87 39 87 87h-174c0-48 39-87 87-87Z" fill="#C6A15B" fill-opacity=".18" stroke="#C6A15B" stroke-width="3"/>
+  <path d="M595 120v144M552 178h86" stroke="#8F6E36" stroke-width="4"/>
+  <text x="95" y="580" fill="#101D32" font-family="Georgia,serif" font-size="25" letter-spacing="5">PATRIMÔNIO EM FOCO</text>
+</svg>

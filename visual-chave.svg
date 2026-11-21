@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="650" gradientUnits="userSpaceOnUse"><stop stop-color="#1B2E4C"/><stop offset="1" stop-color="#080F1C"/></linearGradient>
+    <linearGradient id="gold" x1="150" y1="150" x2="760" y2="530" gradientUnits="userSpaceOnUse"><stop stop-color="#EAD7AC"/><stop offset=".45" stop-color="#C6A15B"/><stop offset="1" stop-color="#8F6E36"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity=".3"/></filter>
+  </defs>
+  <rect width="900" height="650" fill="url(#bg)"/>
+  <path d="M0 510h900" stroke="#C6A15B" stroke-opacity=".18"/>
+  <path d="M0 560h900" stroke="#fff" stroke-opacity=".05"/>
+  <path d="M86 122 300 34l214 88v320H86V122Z" fill="#101D32" stroke="#C6A15B" stroke-opacity=".5" stroke-width="3"/>
+  <path d="m58 130 242-102 242 102" stroke="url(#gold)" stroke-width="8"/>
+  <path d="M177 202h72v240h-72zM345 202h72v240h-72z" fill="#C6A15B" fill-opacity=".12" stroke="#C6A15B" stroke-opacity=".55" stroke-width="2"/>
+  <path d="M151 442h292" stroke="#EAD7AC" stroke-width="8"/>
+  <circle cx="602" cy="272" r="92" fill="#C6A15B" fill-opacity=".1" stroke="#C6A15B" stroke-opacity=".35" stroke-width="2"/>
+  <path d="M554 284c19-28 47-42 79-42 30 0 55 12 74 35" stroke="#EAD7AC" stroke-width="24" stroke-linecap="round"/>
+  <path d="M700 265c-25 2-49 12-69 28-12 10-27 18-44 20-26 3-46 17-49 35-3 18 11 31 36 30 22-1 47-14 65-31l33-31 77-14c21-4 28-27 13-38-10-7-26-8-62 1Z" fill="#DDBE81" stroke="#F5EBD6" stroke-width="4"/>
+  <path d="m646 275 68-15 91 40-20 37-86-31-45 8" fill="#B08A45" stroke="#F5EBD6" stroke-width="4"/>
+  <path d="M753 303 824 331l-26 38-71-28 26-38Z" fill="#C6A15B" stroke="#F5EBD6" stroke-width="4"/>
+  <path d="m792 357 28 11-17 43-29-12 18-42Z" fill="#EAD7AC" stroke="#C6A15B" stroke-width="3"/>
+  <path d="M534 496h294" stroke="#C6A15B" stroke-opacity=".6" stroke-width="2"/>
+  <text x="534" y="545" fill="#EAD7AC" font-family="Georgia,serif" font-size="24" letter-spacing="5">SEGURANÇA NA ENTREGA</text>
+</svg>
